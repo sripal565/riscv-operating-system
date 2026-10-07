@@ -1,0 +1,5 @@
+.vscode/
+*~
+_*
+*.o
+src/kernel/kernel.elf
